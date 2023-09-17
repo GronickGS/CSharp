@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\C#\\INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj": {}
+    "E:\\C#\\CSharp\\01 INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj": {}
   },
   "projects": {
-    "E:\\C#\\INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj": {
+    "E:\\C#\\CSharp\\01 INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\C#\\INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj",
+        "projectUniqueName": "E:\\C#\\CSharp\\01 INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj",
         "projectName": "INVERTIR NÚMERO DE TRES CIFRAS",
-        "projectPath": "E:\\C#\\INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj",
+        "projectPath": "E:\\C#\\CSharp\\01 INVERTIR NÚMERO DE TRES CIFRAS\\INVERTIR NÚMERO DE TRES CIFRAS.csproj",
         "packagesPath": "C:\\Users\\ikelv\\.nuget\\packages\\",
-        "outputPath": "E:\\C#\\INVERTIR NÚMERO DE TRES CIFRAS\\obj\\",
+        "outputPath": "E:\\C#\\CSharp\\01 INVERTIR NÚMERO DE TRES CIFRAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ikelv\\AppData\\Roaming\\NuGet\\NuGet.Config",

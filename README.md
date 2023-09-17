@@ -6,7 +6,7 @@ Este repositorio contiene ejemplos de código en C# que ilustran el uso de estru
 
 En la programación, las estructuras secuenciales se utilizan para ejecutar una serie de instrucciones en un orden específico. Los siguientes ejemplos muestran cómo realizar tareas secuenciales comunes en C#:
 
-1. [Calcular el área de un rectángulo](secuenciales/CalcularAreaRectangulo.cs)
+1. [Invertir numero de tres cifras](/01%20INVERTIR%20NÚMERO%20DE%20TRES%20CIFRAS/Program.cs)
 2. [Convertir grados Celsius a Fahrenheit](secuenciales/ConvertirCelsiusAFahrenheit.cs)
 3. [Calcular el promedio de calificaciones](secuenciales/CalcularPromedioCalificaciones.cs)
 

@@ -8,7 +8,7 @@ namespace InvertirNumero
         {
             int NUM, AUX, DEC, UNI, CEN;
 
-            Console.WriteLine("INGRESE NÚMERO DE TRES CIFRAS :");
+            Console.Write("INGRESE NÚMERO DE TRES CIFRAS: ");
             NUM = int.Parse(Console.ReadLine());
 
             CEN = NUM / 100;
