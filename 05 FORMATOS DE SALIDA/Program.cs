@@ -19,7 +19,8 @@ namespace ConsoleApplication1
             Console.WriteLine();
             Console.WriteLine("HOY ES: " + String.Format("Hoy es {0:F}", DateTime.Now));
             Console.WriteLine("HOY ES: " + String.Format("Hoy es {0:dddd}{0:dd/MM/yyy}", DateTime.Now));
-            Console.Write("Pulse una Tecla:"); Console.ReadLine();
+            Console.Write("Pulse una tecla para terminar");
+            Console.ReadLine();
         }
     }
 }

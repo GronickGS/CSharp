@@ -1,0 +1,15 @@
+E:\C#\CSharp\15 DIA DE LA SEMANA\bin\Debug\net7.0\15 DIA DE LA SEMANA.exe
+E:\C#\CSharp\15 DIA DE LA SEMANA\bin\Debug\net7.0\15 DIA DE LA SEMANA.deps.json
+E:\C#\CSharp\15 DIA DE LA SEMANA\bin\Debug\net7.0\15 DIA DE LA SEMANA.runtimeconfig.json
+E:\C#\CSharp\15 DIA DE LA SEMANA\bin\Debug\net7.0\15 DIA DE LA SEMANA.dll
+E:\C#\CSharp\15 DIA DE LA SEMANA\bin\Debug\net7.0\15 DIA DE LA SEMANA.pdb
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.csproj.AssemblyReference.cache
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.AssemblyInfoInputs.cache
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.AssemblyInfo.cs
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.dll
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\refint\15 DIA DE LA SEMANA.dll
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.pdb
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\15 DIA DE LA SEMANA.genruntimeconfig.cache
+E:\C#\CSharp\15 DIA DE LA SEMANA\obj\Debug\net7.0\ref\15 DIA DE LA SEMANA.dll

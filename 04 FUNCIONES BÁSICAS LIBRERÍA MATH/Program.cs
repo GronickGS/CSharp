@@ -21,7 +21,8 @@ namespace libreriaMath
             Console.WriteLine("NÚMERO MÍNIMO : " + Math.Min(NUM1, 50));
             Console.WriteLine("PARTE ENTERA : " + Math.Truncate(18.78));
             Console.WriteLine("REDONDEO : " + Math.Round(18.78));
-            Console.Write("Pulse una Tecla:"); Console.ReadLine();
+            Console.Write("Pulse una tecla para terminar");
+            Console.ReadLine();
         }
     }
 }

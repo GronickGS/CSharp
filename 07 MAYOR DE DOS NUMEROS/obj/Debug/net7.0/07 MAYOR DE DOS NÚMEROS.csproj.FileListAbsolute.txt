@@ -1,0 +1,15 @@
+E:\C#\07 MAYOR DE DOS NÚMEROS\bin\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.exe
+E:\C#\07 MAYOR DE DOS NÚMEROS\bin\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.deps.json
+E:\C#\07 MAYOR DE DOS NÚMEROS\bin\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.runtimeconfig.json
+E:\C#\07 MAYOR DE DOS NÚMEROS\bin\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.dll
+E:\C#\07 MAYOR DE DOS NÚMEROS\bin\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.pdb
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.csproj.AssemblyReference.cache
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.AssemblyInfoInputs.cache
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.AssemblyInfo.cs
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.csproj.CoreCompileInputs.cache
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.dll
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\refint\07 MAYOR DE DOS NÚMEROS.dll
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.pdb
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\07 MAYOR DE DOS NÚMEROS.genruntimeconfig.cache
+E:\C#\07 MAYOR DE DOS NÚMEROS\obj\Debug\net7.0\ref\07 MAYOR DE DOS NÚMEROS.dll

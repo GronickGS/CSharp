@@ -45,7 +45,7 @@ namespace desgloseDeBilletes
             Console.WriteLine("BILLETES DE A 10 : " + C10);
             Console.WriteLine("BILLETES DE A 5 : " + C5);
             Console.WriteLine("BILLETES DE A 1 : " + CAN);
-            Console.Write("Pulse una Tecla:"); Console.ReadLine();
+            Console.Write("Pulse una tecla para terminar"); Console.ReadLine();
         }
     }
 }

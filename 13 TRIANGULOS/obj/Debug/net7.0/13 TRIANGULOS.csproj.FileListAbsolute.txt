@@ -1,0 +1,15 @@
+E:\C#\CSharp\13 TRIANGULOS\bin\Debug\net7.0\13 TRIANGULOS.exe
+E:\C#\CSharp\13 TRIANGULOS\bin\Debug\net7.0\13 TRIANGULOS.deps.json
+E:\C#\CSharp\13 TRIANGULOS\bin\Debug\net7.0\13 TRIANGULOS.runtimeconfig.json
+E:\C#\CSharp\13 TRIANGULOS\bin\Debug\net7.0\13 TRIANGULOS.dll
+E:\C#\CSharp\13 TRIANGULOS\bin\Debug\net7.0\13 TRIANGULOS.pdb
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.csproj.AssemblyReference.cache
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.AssemblyInfoInputs.cache
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.AssemblyInfo.cs
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.dll
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\refint\13 TRIANGULOS.dll
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.pdb
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\13 TRIANGULOS.genruntimeconfig.cache
+E:\C#\CSharp\13 TRIANGULOS\obj\Debug\net7.0\ref\13 TRIANGULOS.dll

@@ -1,0 +1,15 @@
+E:\C#\CSharp\23 SUMA DE N NUMEROS\bin\Debug\net7.0\23 SUMA DE N NUMEROS.exe
+E:\C#\CSharp\23 SUMA DE N NUMEROS\bin\Debug\net7.0\23 SUMA DE N NUMEROS.deps.json
+E:\C#\CSharp\23 SUMA DE N NUMEROS\bin\Debug\net7.0\23 SUMA DE N NUMEROS.runtimeconfig.json
+E:\C#\CSharp\23 SUMA DE N NUMEROS\bin\Debug\net7.0\23 SUMA DE N NUMEROS.dll
+E:\C#\CSharp\23 SUMA DE N NUMEROS\bin\Debug\net7.0\23 SUMA DE N NUMEROS.pdb
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.csproj.AssemblyReference.cache
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.AssemblyInfoInputs.cache
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.AssemblyInfo.cs
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.dll
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\refint\23 SUMA DE N NUMEROS.dll
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.pdb
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\23 SUMA DE N NUMEROS.genruntimeconfig.cache
+E:\C#\CSharp\23 SUMA DE N NUMEROS\obj\Debug\net7.0\ref\23 SUMA DE N NUMEROS.dll

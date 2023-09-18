@@ -1,0 +1,15 @@
+E:\C#\CSharp\17 CALIFICACION\bin\Debug\net7.0\17 CALIFICACION.exe
+E:\C#\CSharp\17 CALIFICACION\bin\Debug\net7.0\17 CALIFICACION.deps.json
+E:\C#\CSharp\17 CALIFICACION\bin\Debug\net7.0\17 CALIFICACION.runtimeconfig.json
+E:\C#\CSharp\17 CALIFICACION\bin\Debug\net7.0\17 CALIFICACION.dll
+E:\C#\CSharp\17 CALIFICACION\bin\Debug\net7.0\17 CALIFICACION.pdb
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.csproj.AssemblyReference.cache
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.AssemblyInfoInputs.cache
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.AssemblyInfo.cs
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.dll
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\refint\17 CALIFICACION.dll
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.pdb
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\17 CALIFICACION.genruntimeconfig.cache
+E:\C#\CSharp\17 CALIFICACION\obj\Debug\net7.0\ref\17 CALIFICACION.dll

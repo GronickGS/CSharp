@@ -18,7 +18,7 @@ namespace ConsoleApplication2
             if (NHIJO >= 3) { BONO = NHIJO * 10; } else { BONO = NHIJO * 20; }
             ARECIBIR = SUELDO + BONO;
             Console.WriteLine("RECIBE :" + String.Format("{0:c}", ARECIBIR));
-            Console.Write("Pulse una Tecla:"); Console.ReadLine();
+            Console.Write("Pulse una tecla para terminar"); Console.ReadLine();
         }
     }
 }

@@ -27,7 +27,8 @@ namespace ConsoleApplication1
             Console.WriteLine("LA DIVISIÓN ES: " + RESUL);
             RESUL = NUM1 % NUM2;
             Console.WriteLine("EL RESIDUO ES: " + RESUL);
-            Console.Write("Pulse una Tecla:"); Console.ReadLine();
+            Console.Write("Pulse una tecla para terminar");
+            Console.ReadLine();
         }
     }
 }

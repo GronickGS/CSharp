@@ -21,7 +21,8 @@ namespace compraRestaurante
 
             APAGAR = (CANH * PRECIOH) + (CANP * PRECIOP) + (CANB * PRECIOB);
             Console.WriteLine("VALOR A PAGAR: " + APAGAR);
-            Console.Write("Pulse una Tecla:"); Console.ReadLine();
+            Console.Write("Pulse una tecla para terminar");
+            Console.ReadLine();
         }
     }
 }

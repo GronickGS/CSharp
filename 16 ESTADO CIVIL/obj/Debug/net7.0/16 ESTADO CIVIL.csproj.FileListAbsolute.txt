@@ -1,0 +1,15 @@
+E:\C#\CSharp\16 ESTADO CIVIL\bin\Debug\net7.0\16 ESTADO CIVIL.exe
+E:\C#\CSharp\16 ESTADO CIVIL\bin\Debug\net7.0\16 ESTADO CIVIL.deps.json
+E:\C#\CSharp\16 ESTADO CIVIL\bin\Debug\net7.0\16 ESTADO CIVIL.runtimeconfig.json
+E:\C#\CSharp\16 ESTADO CIVIL\bin\Debug\net7.0\16 ESTADO CIVIL.dll
+E:\C#\CSharp\16 ESTADO CIVIL\bin\Debug\net7.0\16 ESTADO CIVIL.pdb
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.csproj.AssemblyReference.cache
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.AssemblyInfoInputs.cache
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.AssemblyInfo.cs
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.csproj.CoreCompileInputs.cache
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.dll
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\refint\16 ESTADO CIVIL.dll
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.pdb
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\16 ESTADO CIVIL.genruntimeconfig.cache
+E:\C#\CSharp\16 ESTADO CIVIL\obj\Debug\net7.0\ref\16 ESTADO CIVIL.dll
